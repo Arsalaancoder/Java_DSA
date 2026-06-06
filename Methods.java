@@ -35,6 +35,7 @@ public class Methods {
 
         printTable(userInput);
         printName();
+        sc.close();
 
     }
 }
